@@ -1,0 +1,21 @@
+﻿Cust_ID,State,Account_length,Area_code,International_plan,Voice_mail_plan,Number_vmail_messages,Total_day_minutes,Total_day_calls,Total_day_charge,Total_eve_minutes,Total_eve_calls,Total_eve_charge,Total_night_minutes,Total_night_calls,Total_night_charge,Total_intl_minutes,Total_intl_calls,Total_intl_charge,Customer_service_calls,tariff_plan_conds
+9001,OR,72,415,No,No,0,211.1,132,35.89,77.0,124,6.55,283.9,149,12.78,2.6,2,0.7,5,In-Advance and In-Arrear Charges: operator may charge customers in advance or at end of month for certain services.
+9002,NJ,130,415,No,No,0,216.7,107,36.84,191.7,138,16.29,128.6,108,5.79,7.2,11,1.94,3,Product Reactivation Charges: applied when a suspended service is reactivated by the customer.
+9003,TX,51,408,No,No,0,96.0,88,16.32,53.6,138,4.56,310.7,58,13.98,0.3,1,0.08,3,Charge Overriding Option: billing system allows overriding base prices at the time given to customer.
+9004,GA,35,510,No,Yes,22,155.6,99,26.45,228.9,51,19.46,164.8,103,7.42,9.8,5,2.65,4,Product Suspension Periodic Charges: charge applied periodically even if customer is suspended for some reason.
+9005,FL,14,408,No,No,0,298.9,121,50.81,204.0,111,17.34,137.8,129,6.2,13.5,14,3.65,4,Product Suspension Periodic Charges: charge applied periodically even if customer is suspended for some reason.
+9006,MA,41,415,No,No,0,266.6,114,45.32,54.2,58,4.61,258.5,57,11.63,0.1,10,0.03,2,Product Usage Charges: charge based on usage of the service such as call per minute or data download per MB.
+9007,OH,41,408,No,No,0,279.5,61,47.52,139.3,97,11.84,150.1,111,6.75,5.9,2,1.59,3,Product Reactivation Charges: applied when a suspended service is reactivated by the customer.
+9008,GA,206,408,No,No,0,255.4,139,43.42,113.7,63,9.66,183.3,58,8.25,12.8,9,3.46,1,Charge Overriding Option: billing system allows overriding base prices at the time given to customer.
+9009,AZ,52,415,Yes,Yes,21,187.3,143,31.84,87.6,64,7.45,254.0,85,11.43,17.0,6,4.59,2,Product Reactivation Charges: applied when a suspended service is reactivated by the customer.
+9010,MA,62,415,No,No,0,78.5,77,13.35,267.0,93,22.7,162.5,111,7.31,9.7,9,2.62,6,Charge Overriding Option: billing system allows overriding base prices at the time given to customer.
+9011,CA,121,408,No,No,0,165.3,126,28.1,282.4,119,24.0,187.9,58,8.46,8.7,0,2.35,2,Product Suspension Periodic Charges: charge applied periodically even if customer is suspended for some reason.
+9012,MN,180,415,No,No,0,67.5,107,11.48,309.9,88,26.34,184.3,105,8.29,0.7,0,0.19,1,Product Suspension Periodic Charges: charge applied periodically even if customer is suspended for some reason.
+9013,CA,147,510,No,Yes,15,89.1,93,15.15,170.9,119,14.53,115.4,117,5.19,1.5,7,0.41,2,Product Usage Charges: charge based on usage of the service such as call per minute or data download per MB.
+9014,CO,98,510,No,No,0,157.7,65,26.81,275.5,108,23.42,100.4,142,4.52,15.5,11,4.19,2,Charge Overriding Option: billing system allows overriding base prices at the time given to customer.
+9015,IL,148,408,Yes,No,0,97.1,82,16.51,157.3,88,13.37,302.9,50,13.63,12.2,8,3.29,0,Product Suspension Periodic Charges: charge applied periodically even if customer is suspended for some reason.
+9016,TX,7,510,No,No,0,315.2,109,53.58,120.4,50,10.23,75.1,61,3.38,10.0,10,2.7,6,Product Usage Charges: charge based on usage of the service such as call per minute or data download per MB.
+9017,MI,131,510,No,No,0,260.6,73,44.3,279.8,121,23.78,262.0,133,11.79,10.5,13,2.83,0,Product Reactivation Charges: applied when a suspended service is reactivated by the customer.
+9018,NC,194,510,No,Yes,28,171.1,110,29.09,110.6,82,9.4,54.9,63,2.47,5.9,3,1.59,6,Product Reactivation Charges: applied when a suspended service is reactivated by the customer.
+9019,CT,187,408,No,No,0,221.8,71,37.71,115.9,87,9.85,314.3,100,14.14,16.1,10,4.35,2,Product Suspension Periodic Charges: charge applied periodically even if customer is suspended for some reason.
+9020,GA,192,415,No,No,0,102.7,110,17.46,184.8,53,15.71,56.6,98,2.55,0.8,11,0.22,3,In-Advance and In-Arrear Charges: operator may charge customers in advance or at end of month for certain services.
